@@ -2,7 +2,7 @@
 Blackbox pentest on Mediroza Hospital 
 # Mediroza Hospital — Penetration Testing Engagement
 
-**Author:** Makaranga Praise (B083)
+**Author:** Takudzwanashe Musere 
 **Program:** Networkwalks Cybersecurity Internship
 **Target:** `medirozahospital.com` (authorized training environment)
 **Status:** Completed — Milestones 1–4
